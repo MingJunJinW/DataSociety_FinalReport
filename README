@@ -1,0 +1,35 @@
+# Pipeline Bias in AI Training: Policy Guardrails for Responsible AI Development
+
+## Course and Group
+
+- **Course:** CSCI 4370/6370 – Data and Society  
+- **Group:** Group 9 – AI Development, Training, and Transparency  
+- **Semester:** Fall 2025  
+- **Institution:** Rensselaer Polytechnic Institute (RPI)
+
+## Team Members
+
+- MingJun Jin  
+- Nicole Lin  
+- Danny Roeder  
+- Demetrius Ho Sang  
+- Thomas Wheelock  
+
+---
+
+## Project Overview
+
+This project examines how bias enters AI systems across the entire training pipeline, not just at model outputs. We focus on:
+
+- **Pipeline stages:** problem definition, data collection, pre-processing, pre-training, task-specific training, and monitoring.  
+- **Case studies:**  
+  - Health-care risk prediction (Group 2)  
+  - Police-grade facial recognition (Group 3)  
+  - Web-scraped media and AI art models (Group 8)  
+- **Goal:** propose concrete policy guardrails and monitoring practices that target *upstream* stages of AI development.
+
+Our main argument is that “model bias” is better understood as **pipeline bias**, and that effective policy must enforce documentation, independent audits, diverse data collection, and continuous monitoring.
+
+---
+
+This assignment examines how bias enters AI systems across the entire training pipeline, from problem definition and data collection to training and deployment. Using case studies in health-care risk prediction, facial recognition, and AI art models, we show how “pipeline bias” harms marginalized groups. The paper then proposes concrete policy guardrails—documentation, audits, diverse data, and continuous monitoring—to reduce these harms in practice.
